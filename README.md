@@ -1,2 +1,2 @@
 # Data Anaytics made with R language
-Some data analytics with R made in Qafqaz University during my master
+Some data analytics made with R language in Qafqaz University during my master
